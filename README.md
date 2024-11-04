@@ -38,7 +38,7 @@
 
 1. 德国标准车牌样式示例：
    - 输入内容：`ZE Y2024`
-   - 生成样式：`样例.png`
+   - 生成样式：`https://github.com/EddieUZ/European-license-plate-generator/blob/main/%E6%A0%B7%E4%BE%8B.png`
 2. 欧盟标准车牌（待定）：
    - **功能将添加，敬请期待**
 
